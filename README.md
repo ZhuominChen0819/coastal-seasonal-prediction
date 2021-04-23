@@ -19,6 +19,18 @@ Prediction Models, according to those predictors mentioned above：
     2. Persistence-Advection Model
     3. Gulf Stream Index Model and NAO Index Model
     4. Persistence-Advection with an Index Model
+    5. Spatial Persistence-Advection Model
 
 Prediction Method:
+    
+    Linear Regression + k-fold Cross Validation
 
+Prediction Skill Assessment:
+
+    1. Anomaly Correlation Coefficient (ACC)
+    2. Root Mean Square Error (RMSE)
+    3. Brier Score
+    4. Brier Skill Score
+
+Zhuomin Chen
+April 23, 2021
